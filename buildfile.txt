@@ -1,3 +1,7 @@
+id="plugin.program.truekodiwizard"
+version="0.0.1"
+zip="https://truekodi.000webhostapp.com/plugin.program.truekodiwizard-0.0.1.zip"
+
 name="Test build 1"
 version="1.0"
 url="https://truekodi.000webhostapp.com/truekoditest.zip"

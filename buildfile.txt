@@ -1,6 +1,6 @@
 name="Test build 1"
 version="1.0"
-url="https://nofile.io/f/82moUgstKJG/truekoditest.zip"
+url="https://truekodi.000webhostapp.com/truekoditest.zip"
 gui="http://"
 kodi="17.6"
 theme="http://"
